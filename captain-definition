@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
   "dockerfileLines": [
-      "FROM marcopeg/apps:0.0.2"
+      "FROM marcopeg/apps:0.0.3"
   ]
  }
